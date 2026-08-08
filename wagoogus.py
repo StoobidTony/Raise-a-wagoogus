@@ -36,7 +36,7 @@ def main():
     minute = 0
     time = f"{hour}:{minute}"
     day = 1
-    item_details = json.load(open(f"wagoojson/items.json"))
+    item_details = json.load(open(f"items.json"))
 
     def notate_time(notated_hour, notated_minute):
         nonlocal time
