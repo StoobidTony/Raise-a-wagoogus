@@ -1,0 +1,47 @@
+{
+    "Googus food": 
+    {
+        "description": "A takeout box containing pieces of chicken and some rice.",
+        "price": 5
+    },
+    "Googus luxury food": 
+    {
+        "description": "A cardboard box containing a whole 9 inch cheese pizza",
+        "price": 15
+    },
+    "Redbull":
+    {
+        "description": "It's a can of an energy drink that remains unnamed for legal reasons.",
+        "price":3
+    },
+    "Skateboard": 
+    {
+        "description": "It's a skateboard. For skateboarding.",
+        "price": 30
+    },
+    "Boardskate": 
+    {
+        "description": "It's a boardskate. For boardskating.",
+        "price": 600
+    },
+    "Cabinet": 
+    {
+        "description": "It's a cabinet. There isn't a man in here.",
+        "price": 30
+    },
+    "Telephone": 
+    {
+        "description": "An old rotary phone. Some might call it a touch-tone telephone.",
+        "price": 100
+    },
+    "Dvds": 
+    {
+        "description": "It's a DVD set of a certain cop show.",
+        "price": 99
+    },
+    "Gun":
+    {
+        "description": "It's a gun. For school. (The frontmost part of the barrel can be taken off to reveal the tip of a ballpoint pen.)",
+        "price": 500
+    }
+}
